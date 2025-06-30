@@ -1,0 +1,21 @@
+
+body{
+    background-color:rgb(249, 249, 180);
+    color:green;
+}
+.container{
+    list-style-type:disc;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.header{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:150px;
+
+}
+ul li{
+    font-size:100px;
+}

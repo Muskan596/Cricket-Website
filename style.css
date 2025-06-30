@@ -1,0 +1,41 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    background-image:url("https://t4.ftcdn.net/jpg/01/62/60/75/360_F_162607591_0ClMAKdKPana6QUUh6XDIuX98wBcrCUi.jpg");
+    background-size:cover; 
+    background-repeat:no-repeat; 
+    background-position:center;
+    height:100vh;                                                                                                                                                                                                                                                                                                          
+}
+.header{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:150px;
+}
+.h3{
+    display:flex;
+    justify-content:center;
+    font-size:55px;
+    line-height:100px;
+}
+ nav{
+    color:white;
+    height:400px;
+    width:auto;
+    background-color:rgb(43, 201, 43);
+}
+
+.list li a{
+    font-size:90px;
+    margin-left:100px;
+    color:rgba(247, 247, 160, 0.966);
+    text-decoration:none;
+}
+label .name{
+    font-size:20px;
+    width:300px;
+}
+
